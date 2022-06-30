@@ -1,4 +1,4 @@
-- 👋 # Hi, I’m @jlkonrad27
+- 👋 Hi, I’m @jlkonrad27
 - 📫 How to reach me jlkonrad27@gmail.com
 
 <!---
